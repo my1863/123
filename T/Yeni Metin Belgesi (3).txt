@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+  <h1>
+    <b><i><u>
+          ÖZEL BAHÇELİEVLER ŞAFAK OKULLARI, 5/C SINIFININ ENGELLİLER HAFTASI SİTESİ</u></i></b>
+  </h1>
+
+<body>
+
+  <body bgcolor=green <h1>
+    ENGELLİ NEDİR? :Engelli , doğuştan veya sonradan meydana gelen hastalıklar veya kaza sonucu oluşan sakatlıklar (vücudun görsel / işlevsel/ zihinsel/ ruhsal farklılıkları) öne sürülerek, toplumsal/ yönetsel tutum ve tercihler sonucu yaşamın birçok alanında kısıtlanan, engellerle karşılaşan kişi demektir. Onlara karşı saygılı olmalıyız çünkü bizde onların yerinde olabiliriz (biraz "empati")
+
+    </u></i></b>
+    </h3>
+    <h3>
+      SİZİN KONUYU DAHA İYİ ANLAMANIZ İÇİN BİR VİDİO VERDİM
+      UMARIM KONUYU DAHA İYİ ANLARSINIZ:
+
+    </h3>
+
+    <iframe width="729" height="547" src="https://www.youtube.com/embed/Xkl9pc_czYk" title="Engelsiz Hayat Teknolojileri: Biraz Empati" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <a href=https://idealsosyalhizmet.com/icerik/uploads/2009/12/engelliresimleri7ideals.jpg> </a>
+    <h3>
+      ŞİMDİ SIRADA 5/C SINIFIN HAZIRLADIKLARI
+      PROJELERLE SİZİ BAŞ BAŞA BIRAKIYORUM:)
+      <iframe width="972" height="547" src="https://www.youtube.com/embed/me_bqawd42M" title="5-C Şafak okulları İşaret dilini öğreniyoruz😊👌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="972" height="547" src="https://www.youtube.com/embed/rJxHFXsQOVM" title="Asya arkadaşımızdan görme engelliler için kitap seslendirmesi😊" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <h1>
+        LÜTFENKANALIMIZA ABONE OLUN BİLDİRİMLERİ AÇIN VE LİKE LAYIN
+      </h1>
+
+    </h3>
+    KAYNAK:(AÇILIŞ YAZISI)VİKİPEDİ ,VİDİO(1) YAHYA KAYAKURT,VİDİO(2)NEHİR VE SENA ARKADAŞLARIMIZIN VİDİOSU,VİDİO(3)ASYA ARKADAŞIMIZIN KİTAP SESLENDİRMESİ
+  </body>
+  </head>
+
+</html>
